@@ -4,11 +4,15 @@
 
 int main (void)
 {
-	int a=0;
+  	int a=0;
+	int *b;//add pointer
 	
-	for a<5
+	for a<5;
 		printf("git test);
 	else
 		break;
+
+	
+
 
 }
