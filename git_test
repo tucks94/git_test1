@@ -1,0 +1,14 @@
+
+#Git test file
+#2021.05.01
+
+int main (void)
+{
+	int a=0;
+	
+	for a<5
+		printf("git test);
+	else
+		break;
+
+}
